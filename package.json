@@ -1,0 +1,15 @@
+{
+  "name": "certificate-verification-dapp",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
+    "@vitejs/plugin-react": "^6.1.1",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "ethers": "^6.17.0",
+    "hardhat": "^2.19.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "type": "module"
+}
